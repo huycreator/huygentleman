@@ -9,6 +9,10 @@ h1{
 	margin:  70px;
 	padding: 22px;
 }
+main{
+	padding: 20px;
+	margin: 0 auto;
+}
 header img{
 	border-radius: 52px;
 	wdith: 222px;
@@ -21,9 +25,17 @@ main img{
 	margin: 0 auto;
 }
 P{
-	margin: 2px 1000px 2px 0;
+	margin:  0 auto;
 	color: skyblue;
+}
+a:hover{
+	background-color: greenyellow;
 }
 a{
 	color: royalblue;
+}
+p.caption{
+	color: darkgrey;
+	font-style: italic;
+	margin-left: 80px;
 }
