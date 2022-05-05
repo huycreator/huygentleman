@@ -1,18 +1,29 @@
 body{
-	margin: 0;
-	font-family: 'Open Sans', sans-serif; 
+	font-family: 'Open Sans', sans-serif;
+	background-color: honeydew; 
 }
 
-header h1{
+h1{
 	color: magenta;
 	font-size: 70px;
+	margin:  70px;
+	padding: 22px;
 }
 header img{
-	border-color: yellow;
-	width: 89px;
+	border-radius: 52px;
+	wdith: 222px;
+	border: transparent 8 px fuchsia;
 }
-body img{
+main img{
 	border-radius: 80px;
 	width: 567px;
-	border:  5px snow;
+	border: solid 11px paleturquoise;
+	margin: 0 auto;
+}
+P{
+	margin: 2px 1000px 2px 0;
+	color: skyblue;
+}
+a{
+	color: royalblue;
 }
