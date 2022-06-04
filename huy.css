@@ -12,7 +12,7 @@ h1{
 main{
 	padding: 50px;
 	margin: 0 auto;
-	font-size: 52px;
+	font-size: auto;
 }
 header img{
 	border-radius: 89px;
