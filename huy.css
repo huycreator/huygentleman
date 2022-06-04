@@ -16,7 +16,7 @@ main{
 }
 header img{
 	border-radius: 89px;
-	wdith: 567px;
+	width: 567px;
 	border: transparent 8 px fuchsia;
 	opacity: 0.75;
 }
@@ -36,7 +36,7 @@ a:hover{
 }
 a{
 	color: royalblue;
-	font-size: 99px;
+	font-size: 25px;
 }
 p.caption{
 	color: darkgrey;
