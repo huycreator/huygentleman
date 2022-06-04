@@ -15,8 +15,9 @@ main{
 }
 header img{
 	border-radius: 52px;
-	wdith: 222px;
+	wdith: 399px;
 	border: transparent 8 px fuchsia;
+	opacity: 0.75;
 }
 main img{
 	border-radius: 80px;
