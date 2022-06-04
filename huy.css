@@ -15,7 +15,7 @@ main{
 	font-size: 52px;
 }
 header img{
-	border-radius: 52px;
+	border-radius: 89px;
 	wdith: 399px;
 	border: transparent 8 px fuchsia;
 	opacity: 0.75;
@@ -29,12 +29,14 @@ main img{
 P{
 	margin:  0 auto;
 	color: skyblue;
+	font-size: 99px;
 }
 a:hover{
 	background-color: greenyellow;
 }
 a{
 	color: royalblue;
+	font-size: 99px;
 }
 p.caption{
 	color: darkgrey;
