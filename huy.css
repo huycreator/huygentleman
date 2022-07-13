@@ -1,12 +1,12 @@
 body{
 	font-family: 'Open Sans', sans-serif;
-	background-color: honeydew; 
+	background-color: lightgray; 
 }
 h1{
-	text-align: center;
-	color: palevioletred;
-	font-size: 112px;
-	font-style: !important;
+	text-align: auto;
+	color: floralwhite;
+	font-size: 52px;
+	font-style: normal;
 }
 main{
 	padding: 50px;
@@ -14,12 +14,10 @@ main{
 	font-size: 22px;
 }
 header img{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	border-radius: 999px;
-	border:  11px solid khaki;
-	width: 567px;
+	text-align: left;
+	width: 52px;
+	float: left;
+	padding: 0px 20px 20px 0px;
 }
 main img{
 	display: block;
@@ -30,9 +28,9 @@ main img{
 	margin-right: auto;
 }
 P{
-	margin: 10px 92px 10px 92px;
-	color: skyblue;
-	font-size: auto;
+	margin: Auto;
+	color: black;
+	font-size: 22px;
 }
 a:hover{
 	background-color: greenyellow;
@@ -54,8 +52,7 @@ div{
 }
 h3{
 	font-family: sans-serif;
-	color: bisque;
-	background-color: honeydew;
+	color: black;
 }
 figcaption{
 	text-align: center;
