@@ -4,7 +4,8 @@ body{
 }
 h1{
 	text-align: auto;
-	color: floralwhite;
+	color: ghostwhite;
+	background-color: black;
 	font-size: 52px;
 	font-style: normal;
 }
@@ -15,7 +16,7 @@ main{
 }
 header img{
 	text-align: left;
-	width: 52px;
+	width: 60px;
 	float: left;
 	padding: 0px 20px 20px 0px;
 }
